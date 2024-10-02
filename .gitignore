@@ -1,0 +1,12 @@
+# standard .gitignore
+.DS_Store
+__pycache__
+*.pyc
+*.pyo
+*.pyd
+*.pyw
+*.pyz
+*.pyx
+*.pyxw
+*.pyxh
+    
